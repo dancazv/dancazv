@@ -1,7 +1,5 @@
 # 💫 Sobre mim:
-<b>Futuro Desenvolvedor Fullstack Java</b>, me formando pela EBAC.<br><br>Minhas habilidades incluem: HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Redux, além de Git/GitHub
-
-<img align="right" height="150" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif"  />
+<b>Futuro Desenvolvedor Fullstack Java</b>, me formando pela EBAC.<br><br>Minhas habilidades incluem: HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Redux, além de Git/GitHub <img align="right" height="150" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif"  />
 
 
 ## 🌐 Socials:
