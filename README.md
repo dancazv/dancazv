@@ -1,6 +1,8 @@
 # 💫 Sobre mim:
 <b>Futuro Desenvolvedor Fullstack Java</b>, me formando pela EBAC.<br><br>Minhas habilidades incluem: HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Redux, além de Git/GitHub
 
+<img align="right" height="150" src="https://media.tenor.com/GOj9ZF_-ZOcAAAAM/cat.gif"  />
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danielcazevedo/) 
@@ -13,3 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dancazv&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
