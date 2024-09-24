@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá mundo!  <br>🎓 <b>Futuro Desenvolvedor Fullstack Java</b>, pela EBAC<br><br>Minhas habilidades incluem HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript,  Bootstrap, TypeScript, React,  Redux, além de Git/GitHub.<br><br>Com uma paixão pelo aprendizado contínuo, estou constantemente explorando novas tecnologias e adotando as melhores práticas em desenvolvimento web.</p>
+<p align="left">Olá mundo!  <br>🎓 <b>Futuro Desenvolvedor Fullstack Java</b>, pela EBAC<br><br>Minhas habilidades incluem: <b>HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript,  Bootstrap, TypeScript, React, Redux, além de Git/GitHub.</b><br><br>Com uma paixão pelo aprendizado contínuo, estou constantemente explorando novas tecnologias e adotando as melhores práticas em desenvolvimento web.</p>
 
 ###
 
