@@ -1,5 +1,5 @@
-# 💫 About Me:
-Futuro Desenvolvedor Fullstack Java, me formando pela EBAC.<br><br>Minhas habilidades incluem HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Styled Components, Redux, além de Git/GitHub
+# 💫 Sobre mim:
+<b>Futuro Desenvolvedor Fullstack Java</b>, me formando pela EBAC.<br><br>Minhas habilidades incluem: HTML, CSS, SASS, LESS, Gulp, Grunt, Parcel, JavaScript, Babel, Bootstrap, TypeScript, React, Redux, além de Git/GitHub
 
 
 ## 🌐 Socials:
